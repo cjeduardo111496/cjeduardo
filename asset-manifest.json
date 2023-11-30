@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cjeduardo/static/css/main.0a90db14.css",
+    "main.js": "/cjeduardo/static/js/main.12665a02.js",
+    "static/js/787.d8324052.chunk.js": "/cjeduardo/static/js/787.d8324052.chunk.js",
+    "static/media/technology.jpg": "/cjeduardo/static/media/technology.a89375910259bb63a2ac.jpg",
+    "static/media/City.jpg": "/cjeduardo/static/media/City.0e6357499227a41e3a6a.jpg",
+    "static/media/design.jpg": "/cjeduardo/static/media/design.dec4677c161a79c0980c.jpg",
+    "static/media/business.jpg": "/cjeduardo/static/media/business.931975727b7e25432bbb.jpg",
+    "static/media/socmed.jpg": "/cjeduardo/static/media/socmed.1bf5bffcf972e7e3cf3a.jpg",
+    "static/media/Web.jpg": "/cjeduardo/static/media/Web.e606a66e2a1e9da6eda7.jpg",
+    "index.html": "/cjeduardo/index.html",
+    "main.0a90db14.css.map": "/cjeduardo/static/css/main.0a90db14.css.map",
+    "main.12665a02.js.map": "/cjeduardo/static/js/main.12665a02.js.map",
+    "787.d8324052.chunk.js.map": "/cjeduardo/static/js/787.d8324052.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a90db14.css",
+    "static/js/main.12665a02.js"
+  ]
+}
