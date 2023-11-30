@@ -33,3 +33,9 @@ p{
 .footer a:hover{
     color: gray;
 }
+
+@media (max-width: 667px) { 
+    .navbar-toggler {
+        background-color: #f2f2f2 !important; 
+    }
+}
